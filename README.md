@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Network Engineering Student | Cybersecurity Enthusiast | Backend .NET Developer
+  Network Engineering Student | Cybersecurity Enthusiast 
 </p>
 
 <p align="center">
